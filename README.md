@@ -1,1 +1,1 @@
-C# TicTacToe
+C# TicTacToe Console App Project.
